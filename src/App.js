@@ -56,7 +56,7 @@ const breakPoint = {};
 export default function App() {
   return (
     <div className="App">
-      <Carousels count={5} images={images} />
+      <Carousels count={7} images={images} />
     </div>
   );
 }
